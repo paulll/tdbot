@@ -1,0 +1,22 @@
+{
+  "name": "tdbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tdlib",
+    "td",
+    "telegram",
+    "bot",
+    "api"
+  ],
+  "author": "paulll",
+  "license": "MIT",
+  "dependencies": {
+    "eventemitter2": "^5.0.1",
+    "tdl": "^3.8.2"
+  }
+}

@@ -1,0 +1,1 @@
+exports.Bot = require('./lib/Bot').Bot;
